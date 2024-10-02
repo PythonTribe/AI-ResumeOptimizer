@@ -1,0 +1,9 @@
+streamlit
+nltk
+spacy
+textblob
+scikit-learn
+matplotlib
+seaborn
+PyPDF2
+python-docx
